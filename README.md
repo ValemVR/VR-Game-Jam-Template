@@ -2,7 +2,7 @@
  Starter Project using Unity XR Toolkit created for VR Jam 2023
 
 # Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc) "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
 
 
 # External Ressources
