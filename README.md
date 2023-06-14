@@ -6,7 +6,7 @@
 
 https://youtu.be/apnfGuMI0Dc
 
-# External Ressources
+# External Resources
 This project uses a combination of these assets and tutorials :
 
 https://youtu.be/6OT43pvUyfY
